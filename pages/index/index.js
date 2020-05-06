@@ -14,6 +14,7 @@ Page({
       currentIndexNav:e.target.dataset.index
     })
   },
+  //sd
  getNavList(){
    const _this=this;
    wx.request({
