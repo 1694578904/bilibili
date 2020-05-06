@@ -1,0 +1,4 @@
+@import "styles/fontawesome.wxss";
+page,view,image,swiper,swiper-item,naviator,video{
+  box-sizing: border-box;
+}

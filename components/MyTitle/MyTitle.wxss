@@ -1,0 +1,43 @@
+/* components/MyTitle/MyTitle.wxss */
+.my_title{
+  display: flex;
+  align-items: center;
+  padding: 10rpx;
+  background-color: #fff;
+}
+.logo{
+    flex: 7;
+}
+.logo_img{
+  width: 140rpx;height: 60rpx;
+}
+.search_img{
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.search_ico{
+  width: 50rpx;height: 44rpx;
+}
+.user_img{
+  flex: 2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.user_ico{
+  width: 54rpx;height: 60rpx;
+  border-radius: 100rpx;
+}
+.down_app{
+  flex: 3;
+  font-size: 30rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: pink;
+  color: #fff;
+  border-radius: 10rpx;
+  padding: 10rpx;
+}
